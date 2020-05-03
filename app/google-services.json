@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "780525024331",
+    "firebase_url": "https://news-admin-bf13b.firebaseio.com",
+    "project_id": "news-admin-bf13b",
+    "storage_bucket": "news-admin-bf13b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780525024331:android:10de137a9d215c0a7549ce",
+        "android_client_info": {
+          "package_name": "com.example.newsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780525024331-cpf33pic66lvaeg7mka8qjlntk6brf37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAns1SBx9PUsgbEXnZ1lGxk1ED5P6Ts8BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780525024331-cpf33pic66lvaeg7mka8qjlntk6brf37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
